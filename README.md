@@ -11,6 +11,11 @@
 - 元器件焊接  
 - 3D 外壳建模（部分）  
 - STM32 / ESP32 嵌入式代码开发  
+  ![Image](https://github.com/user-attachments/assets/5f31760d-eaf1-4f8a-bf7d-a0cb9202702d)
+
+   ![Image](https://github.com/user-attachments/assets/f19a8c96-d2ad-45ae-b819-883eadf85577)
+
+   ![Image](https://github.com/user-attachments/assets/f3cf7ea7-bd90-4831-ad09-f17ea2459161)
 
 ---
 
@@ -105,6 +110,7 @@
 - 若 ESP32 内存不足：
   - 在 Arduino IDE 中调整 `Partition Scheme`
   - 建议选择 **App > 1MB**
+   ![Image](https://github.com/user-attachments/assets/4f6f3cdc-26cc-45c2-8ebc-af6a43fe3ebd)
 
 ---
 
