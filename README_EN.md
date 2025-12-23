@@ -14,9 +14,11 @@ This project was independently developed end-to-end by the author and includes:
 - 3D enclosure modeling (partially customized)  
 - Embedded firmware for STM32 and ESP32  
 
-![Image](https://github.com/user-attachments/assets/5f31760d-eaf1-4f8a-bf7d-a0cb9202702d)  
-![Image](https://github.com/user-attachments/assets/f19a8c96-d2ad-45ae-b819-883eadf85577)  
-![Image](https://github.com/user-attachments/assets/f3cf7ea7-bd90-4831-ad09-f17ea2459161)
+![Image](https://github.com/user-attachments/assets/5f31760d-eaf1-4f8a-bf7d-a0cb9202702d)
+
+ ![Image](https://github.com/user-attachments/assets/f19a8c96-d2ad-45ae-b819-883eadf85577)
+ 
+ ![Image](https://github.com/user-attachments/assets/f3cf7ea7-bd90-4831-ad09-f17ea2459161)
 
 ---
 
@@ -99,7 +101,7 @@ This project was independently developed end-to-end by the author and includes:
 - Firmware stack: **Blinker SDK** (uses **MQTT** for cloud communication).  
 - **ESP8266 is not recommended** for this design.  
 - If you encounter memory issues on ESP32, change the **Partition Scheme** in Arduino IDE and choose an application partition larger than 1 MB (e.g., app > 1 MB).  
-  ![Image](https://github.com/user-attachments/assets/4f6f3cdc-26cc-45c2-8ebc-af6a43fe3ebd)
+![Image](https://github.com/user-attachments/assets/4f6f3cdc-26cc-45c2-8ebc-af6a43fe3ebd)
 
 ---
 
