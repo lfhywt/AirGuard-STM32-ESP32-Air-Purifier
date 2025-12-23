@@ -1,3 +1,5 @@
+English version: [README_EN.md](README_EN.md)
+
 # AirGuard-STM32-ESP32-Air-Purifier
 
 # AirGuard
